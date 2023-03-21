@@ -1,3 +1,7 @@
+# Doctor Connect
+A simple web application that imitates a doctor finder. Users are able to view a list of doctors and assess them by name, specialty, location, review score, etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
