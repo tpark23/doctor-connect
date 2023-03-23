@@ -1,0 +1,19 @@
+.ListView {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 55%;
+    height: 100%;
+    background-color: #f1f4f4;
+
+}
+
+.scroller {
+    margin: 0 auto;
+    position: absolute;
+    top: 2.5%;
+    left: 4%;
+    width: 90%;
+    height: 95%;
+    overflow: auto;
+}

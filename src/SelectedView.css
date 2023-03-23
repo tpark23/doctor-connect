@@ -1,0 +1,76 @@
+.NotSelectedView {
+    position: absolute;
+    border-left: 1px solid rgb(167, 167, 167);
+    left: 55%;
+    top: 0%;
+    width: 45%;
+    height: 100%;
+    background-color: #f1f4f4;
+}
+
+.SelectedView {
+    position: absolute;
+    border-left: 1px solid rgb(167, 167, 167);
+    left: 55%;
+    top: 0%;
+    width: 45%;
+    height: 100%;
+    background-color: #f1f4f4;
+}
+
+.doctor-info-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.doctor-image {
+    width: 30%;
+    border: 1px solid #000000;
+    border-radius: .6rem;
+    height: 200px;
+    width: 150px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.doctor-summary {
+    width: 70%;
+    margin-left: 4%;
+    text-align: left;
+}
+
+.doctor-specialty {
+    margin-top: -8%;
+}
+
+.doctor-gender {
+    margin-top: 6%;
+}
+
+.doctor-rating {
+    margin-top: 8%;
+}
+
+.doctor-overview {
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.overview {
+    text-align: left;
+}
+
+.description{
+    text-align: left;
+}
+
+.similar-doctors {
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: left;
+}
+
+.similar {
+    text-align: left;
+}

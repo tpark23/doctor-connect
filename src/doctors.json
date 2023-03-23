@@ -1,0 +1,140 @@
+{
+    "doctors": [
+    {
+        "name": "John Lee",
+        "specialty": "Dentistry",
+        "location": "Chantilly, VA",
+        "reviewScore": 4.8,
+        "gender": "Male",
+        "phoneNumber": "703-111-1111"
+    },
+    {
+        "name": "William Blan",
+        "specialty": "Chiropractic",
+        "location": "Richmond, VA",
+        "reviewScore": 4.4,
+        "gender": "Male",
+        "phoneNumber": "804-200-2002"
+    },
+    {
+        "name": "Macey Wicks",
+        "specialty": "Dermatology",
+        "location": "Blacksburg, VA",
+        "reviewScore": 4.7,
+        "gender": "Female",
+        "phoneNumber": "540-100-1003"
+    },
+    {
+        "name": "Kyle Mahoves",
+        "specialty": "Physical Therapy",
+        "location": "Richmond, VA",
+        "reviewScore": 4.7,
+        "gender": "Male",
+        "phoneNumber": "804-200-2001"
+    },
+    {
+        "name": "David Marshall",
+        "specialty": "Family Medicine",
+        "location": "Chantilly, VA",
+        "reviewScore": 3.9,
+        "gender": "Male",
+        "phoneNumber": "703-111-1114"
+    },
+    {
+        "name": "Jane Smith",
+        "specialty": "Family Medicine",
+        "location": "Chantilly, VA",
+        "reviewScore": 4.5,
+        "gender": "Female",
+        "phoneNumber": "703-111-1115"
+    },
+    {
+        "name": "Caitlyn Sher",
+        "specialty": "Family Medicine",
+        "location": "Fairfax, VA",
+        "reviewScore": 4.7,
+        "gender": "Female",
+        "phoneNumber": "571-400-4000"
+    },
+    {
+        "name": "Justin Parks",
+        "specialty": "Dermatology",
+        "location": "Fairfax, VA",
+        "reviewScore": 3.7,
+        "gender": "Male",
+        "phoneNumber": "571-400-4001"
+    },
+    {
+        "name": "Carl Durham",
+        "specialty": "Family Medicine",
+        "location": "Blacksburg, VA",
+        "reviewScore": 4.3,
+        "gender": "Male",
+        "phoneNumber": "540-100-1002"
+    },
+    {
+        "name": "Judy Kwon",
+        "specialty": "Dentistry",
+        "location": "Chantilly, VA",
+        "reviewScore": 5,
+        "gender": "Female",
+        "phoneNumber": "703-111-1113"
+    },
+    {
+        "name": "Linda Paleman",
+        "specialty": "Physical Therapy",
+        "location": "Richmond, VA",
+        "reviewScore": 4.1,
+        "gender": "Female",
+        "phoneNumber": "804-200-2003"
+    },
+    {
+        "name": "Chris Thompson",
+        "specialty": "Dentistry",
+        "location": "Fairfax, VA",
+        "reviewScore": 4.6,
+        "gender": "Male",
+        "phoneNumber": "571-400-4003"
+    },
+    {
+        "name": "John Smitt",
+        "specialty": "Chiropractic",
+        "location": "Chantilly, VA",
+        "reviewScore": 4.6,
+        "gender": "Male",
+        "phoneNumber": "703-111-1116"
+    },
+    {
+        "name": "Rebecca White",
+        "specialty": "Pediatrics",
+        "location": "Chantilly, VA",
+        "reviewScore": 4.8,
+        "gender": "Female",
+        "phoneNumber": "703-111-1117"
+    },
+    {
+        "name": "Amanda Grace",
+        "specialty": "Family Medicine",
+        "location": "Blacksburg, VA",
+        "reviewScore": 4.2,
+        "gender": "Female",
+        "phoneNumber": "540-100-1001"
+    },
+    {
+        "name": "Faith Soper",
+        "specialty": "Dermatology",
+        "location": "Fairfax, VA",
+        "reviewScore": 4.5,
+        "gender": "Female",
+        "phoneNumber": "571-400-4002"
+    },
+    {
+        "name": "Matt Rolo",
+        "specialty": "Dentistry",
+        "location": "Chantilly, VA",
+        "reviewScore": 4.2,
+        "gender": "Male",
+        "phoneNumber": "703-111-1112"
+    }
+    ]
+}
