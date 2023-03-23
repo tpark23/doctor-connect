@@ -13,7 +13,7 @@ class SelectedView extends React.Component {
         const {isClicked, selectedDoctor} = this.props;
 
         if (selectedDoctor) {
-            console.log("there is a doctor");
+            //console.log("there is a doctor");
             return(
                 
                 <div className="SelectedView" >

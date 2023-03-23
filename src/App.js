@@ -16,7 +16,6 @@ class App extends React.Component {
         this.state = {
             data: json,
             selectedDoctor: null,
-            isClicked: false
         }
         this.handleClick = this.handleClick.bind(this);
     }
@@ -39,11 +38,13 @@ class App extends React.Component {
      */
     handleClick(doctor) {
         // currently selected doctor information     
-        console.log("selected doctor:", doctor);
+        //console.log("selected doctor:", doctor);
+
         this.setState({ isClicked: true });
-        console.log("selected status:", this.isClicked);
         this.setState({ selectedDoctor: doctor});
-        console.log("selected doctor:", this.selectedDoctor);
+
+        //console.log("selected status:", this.isClicked);
+        //console.log("selected doctor:", this.selectedDoctor);
 
     }
 
