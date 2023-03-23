@@ -10,7 +10,7 @@ import React from "react";
 class SelectedView extends React.Component {
     
     render() {
-        const {isClicked, selectedDoctor} = this.props;
+        const { selectedDoctor} = this.props;
 
         if (selectedDoctor) {
             //console.log("there is a doctor");
