@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
 }
 
 code {
@@ -17,10 +19,8 @@ p {
   }
 
 #heading {
-    height: 19%;
-    width: 100%;
-    position: fixed;
-    top: 0%;
+    padding: 10px;
+
 }
 
 #title {
