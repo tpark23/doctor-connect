@@ -1,7 +1,10 @@
-/*
- * DoctorConnect App Component
- * 
+/* ------------------
+ *        App
+ * ------------------
+ * Main Doctor App component done in Model-View-Controller structure. Displays
+ * two main components: ListView and SelectedView.
  */ 
+
 import './App.css';
 import React from "react";
 import json from "./doctors.json";
@@ -26,8 +29,10 @@ class App extends React.Component {
             <div className="App">
                 <ListView data={this.state.data}
                           handleClick={this.handleClick}/>
-                <SelectedView isClicked={this.state.isClicked}
-                              selectedDoctor={this.state.selectedDoctor}/>
+                <SelectedView data={this.state.data}
+                              isClicked={this.state.isClicked}
+                              selectedDoctor={this.state.selectedDoctor}
+                              handleClick={this.handleClick}/>
             </div>
         );
     }
@@ -45,9 +50,7 @@ class App extends React.Component {
 
         //console.log("selected status:", this.isClicked);
         //console.log("selected doctor:", this.selectedDoctor);
-
     }
-
 
 }
 

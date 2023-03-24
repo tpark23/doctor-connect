@@ -1,7 +1,7 @@
 /* ------------------
  *     DoctorCard
  * ------------------
- * A doctor "card" component that displays brief info about doctor such as
+ * A doctor card component that displays brief info about doctor such as
  * name, specialty, location, and review score. To be used as apart of ListView.
  */
 
@@ -28,10 +28,6 @@ class DoctorCard extends React.Component {
                     </svg>
                     {doctor.reviewScore}
                 </p>
-
-
-                {/* <p className="card-text">Gender: {gender}</p>
-                <p className="card-text">Phone Number: {phoneNumber}</p> */}
             </div>
         );
     }
