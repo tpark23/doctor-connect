@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/doctor-connect/static/css/main.cd3cf7eb.css",
-    "main.js": "/doctor-connect/static/js/main.b35750c5.js",
+    "main.js": "/doctor-connect/static/js/main.8449af04.js",
     "index.html": "/doctor-connect/index.html",
     "main.cd3cf7eb.css.map": "/doctor-connect/static/css/main.cd3cf7eb.css.map",
-    "main.b35750c5.js.map": "/doctor-connect/static/js/main.b35750c5.js.map"
+    "main.8449af04.js.map": "/doctor-connect/static/js/main.8449af04.js.map"
   },
   "entrypoints": [
     "static/css/main.cd3cf7eb.css",
-    "static/js/main.b35750c5.js"
+    "static/js/main.8449af04.js"
   ]
 }
